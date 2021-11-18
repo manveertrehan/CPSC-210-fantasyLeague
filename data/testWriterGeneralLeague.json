@@ -1,0 +1,18 @@
+{
+    "teams": [
+        {
+            "totalFantasyPoints": 0,
+            "players": [{
+                "fantasyPoints": 0,
+                "name": "Kawhi"
+            }],
+            "name": "Raptors"
+        },
+        {
+            "totalFantasyPoints": 0,
+            "players": [],
+            "name": "Lakers"
+        }
+    ],
+    "name": "My league"
+}

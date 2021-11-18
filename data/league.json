@@ -1,0 +1,35 @@
+{
+    "teams": [
+        {
+            "totalFantasyPoints": 83,
+            "players": [
+                {
+                    "fantasyPoints": 37,
+                    "name": "Kyle Lowry"
+                },
+                {
+                    "fantasyPoints": 46,
+                    "name": "Pascal Siakam"
+                }
+            ],
+            "name": "Raptors"
+        },
+        {
+            "totalFantasyPoints": 26,
+            "players": [{
+                "fantasyPoints": 26,
+                "name": "Kawhi"
+            }],
+            "name": "Clippers"
+        },
+        {
+            "totalFantasyPoints": 52,
+            "players": [{
+                "fantasyPoints": 52,
+                "name": "LeBron James"
+            }],
+            "name": "Lakers"
+        }
+    ],
+    "name": ""
+}
